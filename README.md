@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Thanks for stopping by, this is my corporate account. Please also check my personal
-profile: [blmayer](github.com/blmayer)
+profile: [blmayer](https://github.com/blmayer)
