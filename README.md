@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Thanks for stopping by, this is my corporate account. Please also check my personal
+profile: [blmayer](github.com/blmayer)
