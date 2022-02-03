@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 Thanks for stopping by, this is my corporate account. Please also check my personal
 profile: [blmayer](https://github.com/blmayer)
+
+I published a blog at [saucecode](https://saucecode.bar) with some interesting stuff.
