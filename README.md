@@ -18,4 +18,14 @@ Here are some ideas to get you started:
 Thanks for stopping by, this is my corporate account. Please also check my personal
 profile: [blmayer](https://github.com/blmayer)
 
-I published a blog at [saucecode](https://saucecode.bar) with some interesting stuff.
+I made a very small site, less than 1kb, with my portfolio, and some projects:
+[blmayer.dev](https://blmayer.dev)
+
+I also published a blog at [saucecode](https://saucecode.bar) with some interesting stuff.
+
+If you're curious about me there is a tilde town site, [brain](https://tilde.town/~brain),
+and some projects I published:
+
+- [tasker](https://tasker.blmayer.dev)
+- [recipes](https://feitaemcasa.com)
+- [dev comunity](https://derelict.garden)
